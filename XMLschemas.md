@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/bleierr/Letters-1916-sample-files/master/plain
 
 PROs & CONs of specifying person and places names in the XML/TEI schema
 
-!["persName" and values in the original Letters 1916 schema](LINK)
+!["persName" and values in the original Letters 1916 schema](https://github.com/MonikaBarget/DigitalEditing4Historians/blob/master/PersName_Letters1916_Schema.png)
