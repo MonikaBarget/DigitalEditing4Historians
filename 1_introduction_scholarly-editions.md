@@ -58,13 +58,19 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 **IMPORTANT: HISTORIC CONTEXT including technological development matters! Choices are neither purely subjective nor objective, they have a history!**
 
-# How can we structure this information?
+# Scholarly editions between description and interpretation
 
-# Elements of scholarly editing
+Also mention the problem of multimodality in editing... e.g. the inclusion of different source types into one edition! 
+
+Editions are "texts in contexts"?!
+
+Editions foster normalisation, linking, structure and abstraction!
+
+# Established elements of scholarly editing
 
 e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/aktuelles/themen/edition-mein-kampf/)
 
->Ziel der Edition ist es daher, „Mein Kampf“ als bedeutende zeithistorische Quelle zu erschließen, den Entstehungskontext von Hitlers Weltanschauung nachzuzeichnen, seine gedanklichen Vorläufer offenzulegen und seine Ideen und Behauptungen mit den Ergebnissen der modernen Forschung zu kontrastieren.
+> Ziel der Edition ist es daher, „Mein Kampf“ als bedeutende zeithistorische Quelle zu erschließen, den Entstehungskontext von Hitlers Weltanschauung nachzuzeichnen, seine gedanklichen Vorläufer offenzulegen und seine Ideen und Behauptungen mit den Ergebnissen der modernen Forschung zu kontrastieren.
 
 > Die Historikerinnen und Historiker des Instituts für Zeitgeschichte haben den Originaltext Stück für Stück auseinandergenommen und ihn mit mehr als 3.500 Anmerkungen versehen. Diese wissenschaftlichen Kommentare erfüllen eine Vielzahl verschiedenster Aufgaben:
 
@@ -77,7 +83,6 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
     Ausblick auf die Folgen von Hitlers Schrift
     Neue Beiträge zur Grundlagenforschung
 
-
 # Examples of digital scholarly editions
 
 [EADH catalogue of digital editions](https://dig-ed-cat.acdh.oeaw.ac.at/)
@@ -86,18 +91,5 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
 
 The catalogue can be filtered by period. One example of an early modern edition is [In Mozart's Words - an annotated version of the voluminous correspondence of Mozart and his family](https://www.dhi.ac.uk/mozartwords/) created by Stiftung Mozarteum Salzburg, the University of Sheffield and King's College London.
 
-# Introduction to markup as a way to structure and interpret text
-
-In order to be able to create links between words and different texts, sort them by date, identify authors and provide additional context, certain sections of each text in need to be highlighted and enriched with meta-information. This process is called text encoding, and the standard procedures used to encode text are markup languages. The most commonly used markup for digital text-based editions in the humanities is XML.
-
-# Writing and editing XML with XML editors
-
-Although XML can be written with any standard plain text editor, special XML editors foster correct syntax and include special features for the parsing and analysis of XML files.
-
-[OXYGEN](https://www.oxygenxml.com/), a very popular and elaborate XML used for many scholarly editions worldwide, requires a paid licence while other editors are open source.
-
-![Oxygen interface](https://www.oxygenxml.com/img/tei_editor_big.jpg)
-
-WIKIPEDIA provides a handy [overview of XML editors](https://en.wikipedia.org/wiki/Comparison_of_XML_editors), detailing their functionality and their compatibility with different operating systems.
 
 
