@@ -22,7 +22,17 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
     Neue Beiträge zur Grundlagenforschung
 
 
+# Examples of digital scholarly editions
+
+[EADH catalogue of digital editions](https://dig-ed-cat.acdh.oeaw.ac.at/)
+
+> Since 2012 the Catalogue of Digital Editions has been gathering digital editions and texts in an attempt to survey and identify best practice in the field of digital scholarly editing. Analogous initiatives exist but don't provide the granular analysis of features necessary to better understand the rationale and methodology behind the creation of a digital edition. This Catalogue provides an accessible record of standards and building technologies used, and thus an insight into past and present projects.
+
+The catalogue can be filtered by period. One example of an early modern edition is [In Mozart's Words - an annotated version of the voluminous correspondence of Mozart and his family](https://www.dhi.ac.uk/mozartwords/) created by Stiftung Mozarteum Salzburg, the University of Sheffield and King's College London.
+
 # Introduction to markup as a way to structure and interpret text
+
+In order to be able to create links between words and different texts, sort them by date, identify authors and provide additional context, certain sections of each text in need to be highlighted and enriched with meta-information. This process is called text encoding, and the standard procedures used to encode text are markup languages. The most commonly used markup for digital text-based editions in the humanities is XML.
 
 # Writing and editing XML with XML editors
 
