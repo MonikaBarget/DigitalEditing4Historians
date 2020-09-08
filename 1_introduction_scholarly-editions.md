@@ -22,7 +22,7 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
     Neue Beiträge zur Grundlagenforschung
 
 
-# Introduction to XML as a markup language
+# Introduction to markup as a way to structure and interpret text
 
 # Writing and editing XML with XML editors
 
