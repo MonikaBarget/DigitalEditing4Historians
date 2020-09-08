@@ -1,6 +1,10 @@
 # Overall purpose of XML schemas
 
+XML schemas are a way to define XML elements specifally for one edition project or a series of related projects, e.g. editions of historical letters. Parsing XML files against the project schema ensures that the syntax and hierarchies of the files are correct and that the files will eventually display correctly on the web or in print.
+
 # Challenges of XML schemas for historical sources
+
+However, defining a schema also comes with many pitfalls, one of them being the premature limitation of options to describe certain textual features. The challenge especially affects editions of historical sources as pre-modern texts often use inconsistent spelling, quotes from foreign languages such as Greek and Latin, or may contain many sections that are no longer legible.
 
 # Case study: the Letters 1916-1923 schema for early 20th-century correspondence
 
