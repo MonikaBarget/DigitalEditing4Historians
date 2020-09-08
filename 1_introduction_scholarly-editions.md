@@ -36,4 +36,12 @@ In order to be able to create links between words and different texts, sort them
 
 # Writing and editing XML with XML editors
 
-[WIKIPEDIA overview of XML editors](https://en.wikipedia.org/wiki/Comparison_of_XML_editors)
+Although XML can be written with any standard plain text editor, special XML editors foster correct syntax and include special features for the parsing and analysis of XML files.
+
+[OXYGEN](https://www.oxygenxml.com/), a very popular and elaborate XML used for many scholarly editions worldwide, requires a paid licence while other editors are open source.
+
+![Oxygen interface](https://www.oxygenxml.com/img/tei_editor_big.jpg)
+
+WIKIPEDIA provides a handy [overview of XML editors](https://en.wikipedia.org/wiki/Comparison_of_XML_editors), detailing their functionality and their compatibility with different operating systems.
+
+
