@@ -1,3 +1,17 @@
+# Introduction to markup as a way to structure and interpret text
+
+In order to be able to create links between words and different texts, sort them by date, identify authors and provide additional context, certain sections of each text in need to be highlighted and enriched with meta-information. This process is called text encoding, and the standard procedures used to encode text are markup languages. The most commonly used markup for digital text-based editions in the humanities is XML.
+
+# Writing and editing XML with XML editors
+
+Although XML can be written with any standard plain text editor, special XML editors foster correct syntax and include special features for the parsing and analysis of XML files.
+
+[OXYGEN](https://www.oxygenxml.com/), a very popular and elaborate XML used for many scholarly editions worldwide, requires a paid licence while other editors are open source.
+
+![Oxygen interface](https://www.oxygenxml.com/img/tei_editor_big.jpg)
+
+WIKIPEDIA provides a handy [overview of XML editors](https://en.wikipedia.org/wiki/Comparison_of_XML_editors), detailing their functionality and their compatibility with different operating systems.
+
 # Overall purpose of XML schemas
 
 XML schemas are a way to define XML elements specifally for one edition project or a series of related projects, e.g. editions of historical letters. Parsing XML files against the project schema ensures that the syntax and hierarchies of the files are correct and that the files will eventually display correctly on the web or in print.
