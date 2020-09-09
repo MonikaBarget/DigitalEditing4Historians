@@ -4,13 +4,13 @@
 
 [Anderson, Clifford B., und Joseph C. Wicentowski. XQuery for Humanists. College Station, UNITED STATES: Texas A&M University Press, 2020](http://ebookcentral.proquest.com/lib/senc/detail.action?docID=6177763)
 
-*XQuery example:*
+*Analysis and visualisation of an XML file in BaseX XML editor, created by [Christian Grün](https://commons.wikimedia.org/wiki/User:ChristianGruen):*
 
 ![Analysis and visualisation of an XML file in BaseX XML editor, created by [Christian Grün](https://commons.wikimedia.org/wiki/User:ChristianGruen)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Screenshot_BaseX_9.0.png/1280px-Screenshot_BaseX_9.0.png)
 
 [Lai, Catherine, und Steven Bird. „Querying Linguistic Trees“. Journal of Logic, Language, and Information 19, Nr. 1 (2010): 53–73.](https://www.jstor.org/stable/20685004)
 
-*Xpath example:*
+*XPath expression applied to an XML file, WIKIPEDIA:*
 
 ![XPath expression applied to an XML file, WIKIPEDIA](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/XPath_example.svg/300px-XPath_example.svg.png)
 
