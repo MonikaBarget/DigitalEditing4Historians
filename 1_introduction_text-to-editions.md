@@ -56,6 +56,8 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 > The term *materiality* has a wide range of meanings within the discourses of writing studies, often functioning as a modifier (“materialist”) to other abstractions (as in, “materialist views of situation”). As reflected in its various significations within the field, materiality is used not only to account for the presence of matter and the material, but also to describe the operations of matter (“materialism”). As such, materiality is deployed both as a thing itself (an embodied presence), and as a thing that can act in the service of its own ends (as having agency).
 
+**All of this is part of academic discussions on the "value" of a specific source (German: "Quellenwert"). Such discussions especially arise when sources are potentially volatile and / or fragile. This includes all kinds of hand-written notes and ephemera that emerge as "side-products" of cultural activities: e.g. [Ulrich, Paul S. “THEATERZETTEL UND THEATERALMANACHE – QUELLENKRITISCHE ANMERKUNGEN.” Theater - Zettel - Sammlungen: Erschließung, Digitalisierung, Forschung, edited by Matthias J. Pernerstorfer, vol. 1, Hollitzer Verlag, Wien, 2012, pp. 3–26. JSTOR](www.jstor.org/stable/j.ctv6jmb66.4)**
+
 **IMPORTANT: HISTORIC CONTEXT including technological development matters! Choices are neither purely subjective nor objective, they have a history!**
 
 # Scholarly editions between description and interpretation
@@ -82,6 +84,12 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
     Korrektur von Fehlern und einseitigen Darstellungen
     Ausblick auf die Folgen von Hitlers Schrift
     Neue Beiträge zur Grundlagenforschung
+    
+# Chances and challenges of digitisation
+
+[Stigler, Johannes H. “VON DER DIGITALISIERUNG ZUR DIGITALEN EDITION.” Theater - Zettel - Sammlungen: Erschließung, Digitalisierung, Forschung, edited by Matthias J. Pernerstorfer, vol. 1, Hollitzer Verlag, Wien, 2012, pp. 125–134. JSTOR](www.jstor.org/stable/j.ctv6jmb66.13):
+
+> Fragen der Verwaltung und Bereitstellung von digitalen Ressourcen kommt heute in Museen, Archiven und Bibliotheken, aber auch in der geisteswissenschaftlichen Forschung zunehmende Bedeutung zu. Vielerorts hat man mit der Digitalisierung von Beständen begonnen und versucht so zur Erhaltung und bestandsschonenden Zugänglichmachung von Büchern, Handschriften und anderen kulturellen Artefakten beizutragen. Die heute verfügbaren Speichermedien setzen dabei Massendigitalisierungsprojekten keine wirklichen physikalischen Grenzen, vielmehr sind es Fragen der Logistik und Nachhaltigkeit, die sich in solchen Projekten in vielfacher Weise stellen. 
 
 # Examples of digital scholarly editions
 
