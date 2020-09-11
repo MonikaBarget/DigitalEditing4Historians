@@ -20,6 +20,8 @@ XML schemas are a way to define XML elements specifally for one edition project 
 
 However, defining a schema also comes with many pitfalls, one of them being the premature limitation of options to describe certain textual features. The challenge especially affects editions of historical sources as pre-modern texts often use inconsistent spelling, quotes from foreign languages such as Greek and Latin, or may contain many sections that are no longer legible.
 
+Developing a model schema for editions of historical letters has been one joint project in the Digital Humanities, addressed by researchers of different disciplinary backgrounds and from different countries. [ARTICLE]
+
 # Case study: the Letters 1916-1923 schema for early 20th-century correspondence
 
 a) history of the collection and its infrastructure 
@@ -37,3 +39,18 @@ d) PROs & CONs of specifying person and places names in the XML/TEI schema
 !["persName" and values in the original Letters 1916 schema](https://github.com/MonikaBarget/DigitalEditing4Historians/blob/master/PersName_Letters1916_Schema.png)
 
 Solution in the new infrastructure: "consecutive disambiguation"
+
+# Task:
+
+Imagine that you are asked to create a digital edition of judicial regulations published in Mainz.
+
+If you are able to read early modern print, look at the digitised [Untergerichts-Ordnung des Ertzstiffts Meyntz, Mainz, 1543](https://daten.digitale-sammlungen.de/~db/0002/bsb00029454/images/) and try to come up with elements that ought to be included in the schema for your digital edition.
+
+![Title Page Gerichtsordnung](https://daten.digitale-sammlungen.de/~zend-bsb/wasserzeichen-projekte.php?seite=00001&id=00029454&bibl=bsb&kennziffer=19111913194709091911)
+
+What information must be included in every XML file created for a collection of early modern judicial regulations of this kind? What information is optional?
+What "values" must be provided in normalised form, what "values" can be entered in several variations, reflecting usage in the original source?
+
+You might want to put your considerations in a table and describe your thought process in a short text. The IEG DH Lab would be delighted to feature your contributions on our [blog](https://dhlab.hypotheses.org/).
+
+
