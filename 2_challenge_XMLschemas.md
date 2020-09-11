@@ -44,9 +44,13 @@ Solution in the new infrastructure: "consecutive disambiguation"
 
 Imagine that you are asked to create a digital edition of judicial regulations published in Mainz.
 
-If you are able to read early modern print, look at the digitised [Untergerichts-Ordnung des Ertzstiffts Meyntz, Mainz, 1543](https://daten.digitale-sammlungen.de/~db/0002/bsb00029454/images/) and try to come up with elements that ought to be included in the schema for your digital edition:
+If you are able to read early modern print, look at the digitised [Untergerichts-Ordnung des Ertzstiffts Meyntz, Mainz, 1543](https://daten.digitale-sammlungen.de/~db/0002/bsb00029454/images/) and try to come up with elements that ought to be included in the schema for your digital edition.
 
-![Title Page Gerichtsordnung](https://daten.digitale-sammlungen.de/~zend-bsb/wasserzeichen-projekte.php?seite=00001&id=00029454&bibl=bsb&kennziffer=19111913194709091911)
+![Title Page Gerichtsordnung](https://github.com/MonikaBarget/DigitalEditing4Historians/blob/master/GerichtsordnungMainzTitel_BSBM%C3%BCnchen.jpg)
+
+Source URN: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00029454-6
+Licence: CC BY-NC-SA 4.0
+Copyright: DFG, BSB München
 
 What information must be included in every XML file created for a collection of early modern judicial regulations of this kind? What information is optional?
 What "values" must be provided in normalised form, what "values" can be entered in several variations, reflecting usage in the original source?
