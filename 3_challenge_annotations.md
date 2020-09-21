@@ -23,7 +23,7 @@ The cause of the controvery was that the Jesuits had been given charge of the pa
 
 Read Ketteler's address [Die Jesuiten in Mainz und die Beschwerde des Gemeinderathes bei den hohen Ständen gegen deren Aufenthalt in der Pfarrwohnung zu St. Christoph : Ansprache an seine Diöcesanen](https://reader.digitale-sammlungen.de//de/fs1/object/display/bsb10568409_00005.html) of 1864 and try to find out who the major agents in the controversy were. What places, actions or theological concepts are mentioned more than once? Which of those would you annotate in a digital edition of similar texts?
 
-![Jesuiten in Mainz Titelseite](https://github.com/MonikaBarget/DigitalEditing4Historians/edit/master/Jesuiten-in-Mainz_Titelseite.jpg)
+![Jesuiten in Mainz Titelseite](https://github.com/MonikaBarget/DigitalEditing4Historians/edit/master/Jesuiten-in-Mainz_Titelseite.png)
 
 Source URN: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10568409-6 Licence: CC BY-NC-SA 4.0 Copyright: DFG, BSB München
 
