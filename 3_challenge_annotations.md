@@ -1,8 +1,4 @@
-# Definition of free annotations
-
-# The relation of markup and annotations
-
-# Annotation choices in the "Littlehales" project
+# Case Study: Annotation choices in the "Littlehales" project
 
 The project "Inside Dublin Castle - the correspondence of Edward Baker Littlehales, 1808" is a small digital edition prepared by MA students of Digitial Humanities at the Centre for Digital Humanities in Maynooth Ireland, in the winter term of 2017/2018. The edition consists in letters exchanged between Edward Baker Littlehales, a British government official working at Dublin Castle, and two of his colleagues in the summer of 1808, covering rural uprisings in Ireland and other political issues of the day.
 
