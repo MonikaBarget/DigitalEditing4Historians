@@ -4,11 +4,7 @@
 
 # Annotations choices in the "Littlehales" project
 
-[![Watch the video](https://img.youtube.com/vi/wRslCtTPpzc/maxresdefault.jpg)](https://youtu.be/wRslCtTPpzc)
-
-[<img src="https://img.youtube.com/vi/wRslCtTPpzc/maxresdefault.jpg" width="50%">](https://youtu.be/wRslCtTPpzc)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wRslCtTPpzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/wRslCtTPpzc/maxresdefault.jpg" width="50%" height="50%">](https://youtu.be/wRslCtTPpzc)
 
 # Task:
 
