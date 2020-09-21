@@ -4,7 +4,7 @@
 
 # Annotations choices in the "Littlehales" project
 
-[<img src="https://img.youtube.com/vi/wRslCtTPpzc/maxresdefault.jpg" width="50%" height="50%">](https://youtu.be/wRslCtTPpzc)
+[<img src="https://img.youtube.com/vi/wRslCtTPpzc/v1.jpg" width="50%" height="50%">](https://youtu.be/wRslCtTPpzc)
 
 # Task:
 
