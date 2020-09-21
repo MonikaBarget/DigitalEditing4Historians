@@ -4,6 +4,12 @@
 
 # Annotations choices in the "Littlehales" project
 
+<div align="left">
+      <a href="https://www.youtube.com/embed/wRslCtTPpzc">
+         <img src="https://img.youtube.com/vi/wRslCtTPpzc/0.jpg" style="width:100%;">
+      </a>
+</div>
+
 [<img src="https://img.youtube.com/vi/wRslCtTPpzc/v1.jpg" width="50%" height="50%">](https://youtu.be/wRslCtTPpzc)
 
 # Task:
