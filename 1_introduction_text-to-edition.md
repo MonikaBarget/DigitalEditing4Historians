@@ -77,7 +77,7 @@ The historic context of a text including technological developments in text prod
 
 In order to be able to create links between words and different texts, sort them by date, identify authors and provide additional context, certain sections of each text in need to be highlighted and enriched with meta-information. This process is called text encoding, and the standard procedures used to encode text are markup languages. The most commonly used markup for digital text-based editions in the humanities is XML.
 
-*For Examples of manuscript markup, please see [“Deciphering Copyediting Markup” by Ella Dyson, 14th December 14 2017](https://writersblockpartyblog.com/2017/12/14/deciphering-copyediting-markup/).*
+*For samples of manuscript markup, please see [“Deciphering Copyediting Markup” by Ella Dyson, 14th December 14 2017](https://writersblockpartyblog.com/2017/12/14/deciphering-copyediting-markup/).*
 
 # Overview of markup languages and their development
 
