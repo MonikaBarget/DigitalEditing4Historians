@@ -8,13 +8,26 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 > In its older and still most common sense *text* means written words, usually words given some kind of authority. Editors preparing literary editions or historical documents seek a text "most nearly representing the author's original work" (Oxford English Dictionary). For literary scholars a text is a work of literature; for historians, a text is a historical document; for musicologists, a text is the words to a piece of music.
 
+*Example of the complexity of textual sources:*
+
+[Telegram from the War Office to Samuel Cleland Davidson, 7 July 1916](http://letters1916.maynoothuniversity.ie/item/1055)
+
+![Telegram](http://letters1916.maynoothuniversity.ie/diyhistory/archive/fullsize/a0acc72a57e4a49664cdabc93c827ec1.jpg)
+
 [Lerer, Seth, and Joseph A. Dane. “Introduction: What Is a Text?” Huntington Library Quarterly, vol. 58, no. 1, 1995, pp. 1–10. JSTOR](www.jstor.org/stable/3817894):
 
-> Nonetheless, although "textuality" has become something of a term to conjure with -- and disciplines as diverse as film studies, cultural antrhopology, and the history of scinece imagine themselves working with the meaning and the mode of "texts" -- the processes of transcribing, collating, descrining, and editing books and manuscripts of earlier historical periods remain, for the most part, relatively familiar. (...) The question still evades us: What is a text? Or, to ask it more precisely, what are the relationships between the methods of textual study and the privileging of a class of objects called texts? How does an artifact become a text? Does it become one only when subjected to the inquiries of textual analysis? For that matter, can a text lose its status and revert to the merely artifactual?
+> Nonetheless, although "textuality" has become something of a term to conjure with -- and disciplines as diverse as film studies, cultural antrhopology, and the history of science imagine themselves working with the meaning and the mode of "texts" -- the processes of transcribing, collating, describing, and editing books and manuscripts of earlier historical periods remain, for the most part, relatively familiar. (...) The question still evades us: What is a text? Or, to ask it more precisely, what are the relationships between the methods of textual study and the privileging of a *class of objects* called texts? *How does an artifact become a text?* Does it become one only when subjected to the inquiries of textual analysis? For that matter, can a text lose its status and revert to the merely artifactual?
+
+*Example of a "text" with obvious haptic qualities:*
+
+[Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg]
+(https://commons.wikimedia.org/wiki/File:Roman_Inscription_in_Pompei,_Italy_(EDH_-_F010021).jpeg), Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+![Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg](https://commons.wikimedia.org/wiki/File:Roman_Inscription_in_Pompei,_Italy_(EDH_-_F010021).jpeg)
 
 [Wikipedia article on "text" in literary theory](https://en.wikipedia.org/wiki/Text_(literary_theory):
 
-> In literary theory, a text is any object that can be "read", whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing. It is a coherent set of signs that transmits some kind of informative message. This set of signs is considered in terms of the informative message's content, rather than in terms of its physical form or the medium in which it is represented. 
+> In literary theory, a text is any object that can be "read", whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing. It is a coherent set of signs that transmits some kind of informative message. This *set of signs* is considered in terms of the informative message's content, rather than in terms of its physical form or the medium in which it is represented. 
 
 [Troxel, Ronald L. “What Is the 'Text' in Textual Criticism?” Vetus Testamentum, vol. 66, no. 4, 2016, pp. 603–626. JSTOR](www.jstor.org/stable/44647543):
 
@@ -56,13 +69,28 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 > The term *materiality* has a wide range of meanings within the discourses of writing studies, often functioning as a modifier (“materialist”) to other abstractions (as in, “materialist views of situation”). As reflected in its various significations within the field, materiality is used not only to account for the presence of matter and the material, but also to describe the operations of matter (“materialism”). As such, materiality is deployed both as a thing itself (an embodied presence), and as a thing that can act in the service of its own ends (as having agency).
 
-**All of this is part of academic discussions on the "value" of a specific source (German: "Quellenwert"). Such discussions especially arise when sources are potentially volatile and / or fragile. This includes all kinds of hand-written notes and ephemera that emerge as "side-products" of cultural activities: e.g. [Ulrich, Paul S. “THEATERZETTEL UND THEATERALMANACHE – QUELLENKRITISCHE ANMERKUNGEN.” Theater - Zettel - Sammlungen: Erschließung, Digitalisierung, Forschung, edited by Matthias J. Pernerstorfer, vol. 1, Hollitzer Verlag, Wien, 2012, pp. 3–26. JSTOR](www.jstor.org/stable/j.ctv6jmb66.4)**
+All of this is part of academic discussions on the "value" of a specific source (German: "Quellenwert"). Such discussions especially arise when sources are potentially volatile and / or fragile. This includes all kinds of hand-written notes and ephemera that emerge as "side-products" of cultural activities: e.g. [Ulrich, Paul S. “THEATERZETTEL UND THEATERALMANACHE – QUELLENKRITISCHE ANMERKUNGEN.” Theater - Zettel - Sammlungen: Erschließung, Digitalisierung, Forschung, edited by Matthias J. Pernerstorfer, vol. 1, Hollitzer Verlag, Wien, 2012, pp. 3–26. JSTOR](www.jstor.org/stable/j.ctv6jmb66.4)
 
-**IMPORTANT: HISTORIC CONTEXT including technological development matters! Choices are neither purely subjective nor objective, they have a history!**
+The historic context of a text including technological developments in text production matter. Interpretation of a text and its representation in secondary media are, therefore, neither purely subjective nor objective. Modes of text analysis and text transmission, too, have a history. 
 
 # Markup as a way to structure and interpret text
 
 In order to be able to create links between words and different texts, sort them by date, identify authors and provide additional context, certain sections of each text in need to be highlighted and enriched with meta-information. This process is called text encoding, and the standard procedures used to encode text are markup languages. The most commonly used markup for digital text-based editions in the humanities is XML.
+
+*For Examples of manuscript markup, please see [“Deciphering Copyediting Markup” by Ella Dyson, 14th December 14 2017](https://writersblockpartyblog.com/2017/12/14/deciphering-copyediting-markup/).*
+
+# Overview of markup languages and their development
+
+ADD MISSING INFO
+
+The *Timeline of Markup Languages*, published in [“Markup Language for the Wireless World”, 5th February 2009]
+(https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a visualisation.
+
+# XML/TEI as the established standard in digital editing
+
+XML uses tags similar to HTML. It has more rigid hierarchies / nesting rules but permits the "invention" of additional tags and / or attributes to describe text features.
+A widely recognised attempt to provide guidelines for the use of XML in digital editions has been made by the [Text Encoding Initiative (TEI)](
+https://tei-c.org/).
 
 # Writing and editing XML with XML editors
 
@@ -72,25 +100,19 @@ Although XML can be written with any standard plain text editor, special XML edi
 
 ![Oxygen interface](https://www.oxygenxml.com/img/tei_editor_big.jpg)
 
+An open-source editor that runs on Windows, Linux and Mac is [BaseX](https://basex.org/). Its functionality is similar to Oxygen although it is less commonly used and perhaps less accessible to beginners. BaseX can be used from the command line, in client/server mode, or via the Graphical User Interface (GUI). The GUI does not only provide interactive views for visualizing your XML data, but also a powerful interactive query editor (XQuery 3.1 processor).
+
 WIKIPEDIA provides a handy [overview of XML editors](https://en.wikipedia.org/wiki/Comparison_of_XML_editors), detailing their functionality and their compatibility with different operating systems.
-
-# Overall purpose of XML schemas
-
-XML schemas are a way to define XML elements specifally for one edition project or a series of related projects, e.g. editions of historical letters. Parsing XML files against the project schema ensures that the syntax and hierarchies of the files are correct and that the files will eventually display correctly on the web or in print.
-
-# Challenges of XML schemas for historical sources
-
-However, defining a schema also comes with many pitfalls, one of them being the premature limitation of options to describe certain textual features. The challenge especially affects editions of historical sources as pre-modern texts often use inconsistent spelling, quotes from foreign languages such as Greek and Latin, or may contain many sections that are no longer legible.
-
-Developing a model schema for editions of historical letters has been one joint project in the Digital Humanities, addressed by researchers of different disciplinary backgrounds and from different countries. [ARTICLE]
 
 # Scholarly editions between description and interpretation
 
-Also mention the problem of multimodality in editing... e.g. the inclusion of different source types into one edition! 
+Preparing a text for a scholarly edition, whether printed or digital, is a challenging task as our attempts to structure and markup our sources always transcend mere description and move into interpretation. 
 
-Editions are "texts in contexts"?!
+Scholarly editing is often multimodal because different source types need to be included. Text, for instance, is often combined with images.
 
-Editions foster normalisation, linking, structure and abstraction!
+Moreover, editions require a certain level of normalisation, linking and abstraction. 
+
+Therefore, editions are essentially *texts in contexts*.
 
 # Established elements of scholarly editing
 
@@ -123,5 +145,24 @@ e.g. [Hitler, mein Kampf - eine kritische Edition](https://www.ifz-muenchen.de/a
 
 The catalogue can be filtered by period. One example of an early modern edition is [In Mozart's Words - an annotated version of the voluminous correspondence of Mozart and his family](https://www.dhi.ac.uk/mozartwords/) created by Stiftung Mozarteum Salzburg, the University of Sheffield and King's College London.
 
+# Credits and topics for further discussion
+
+*Thanks to:*
+
+- Susan Schreibman (Maastricht University) for permitting the use of photographs from the Letters 1916-1923 digital edition and the Edward B. Littlehales edition of 19th century Irish government correspondence.
+
+- #dariahTeach for providing open source teaching material in the digital humanities.
+
+- my colleagues at the DH Lab at IEG Mainz for review and advice.
+
+*Topics to discuss:*
+
+- What markup languages have you come across so far? Where? What was your experience?
+
+- What digital editions have you used as a resource, e.g. for writing a term paper?
+
+- Have you contributed to any digital editions yourselves? As a student assistant or volunteer?
+
+- What are your expectations for a course in “Digital Editing”? What would you like to learn?
 
 
