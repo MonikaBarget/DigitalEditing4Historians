@@ -1,21 +1,22 @@
 
 # Case study: the Letters 1916-1923 schema for early 20th-century correspondence
 
-a) history of the collection and its infrastructure 
+XML schemas are templates that define XML elements specifally for one edition project or a series of related projects, e.g. editions of historical letters. Parsing XML files against the project schema ensures that the syntax and hierarchies of the files are correct and that the files will eventually display correctly on the web or in print.
+However, defining a schema also comes with many pitfalls, one of them being the premature limitation of options to describe certain textual features. The challenge especially affects editions of historical sources as pre-modern texts often use inconsistent spelling, quotes from foreign languages such as Greek and Latin, or may contain many sections that are no longer legible.
 
-b) focus in Letters 1916-1923 is on encoding metadata
+Developing a model schema for editions of historical letters has been one joint project in the Digital Humanities, addressed by researchers of different disciplinary backgrounds and from different countries:
 
-show frontend, backend and exported XML file
+cf. ["Towards a Model for Encoding Correspondence in the TEI: Developing and Implementing <correspDesc>" by Peter Stadler, Marcel Illetschko and Sabine Seifert](https://journals.openedition.org/jtei/1433)
 
-c) elements of the Letters 1916 schema are both adaptable to other collections of letters and project-specific:
+A custom XML schema was also developed for the [Letters 1916-1923](http://letters1916.maynoothuniversity.ie/) project, a collection of letters written in, to or about Ireland between the Easter Rising of 1916 and the end of the Irish Civil War in 1923. The focus of text encoding in Letters 1916-1923 was placed on the metadata, including the places where the letters were written or sent to. As a consequence, the elements of the initial Letters 1916-1923 schema were both adaptable to other collections of letters and project-specific:
 
 https://raw.githubusercontent.com/bleierr/Letters-1916-sample-files/master/plain%20corresp%20templates/template.rng
 
-d) PROs & CONs of specifying person and places names in the XML/TEI schema
+One encoding decision that later proved to be problematic was the detailed specification of person names and place names within the XML/TEI schema as two many variations occurred over time.
 
 !["persName" and values in the original Letters 1916 schema](https://github.com/MonikaBarget/DigitalEditing4Historians/blob/master/PersName_Letters1916_Schema.png)
 
-Solution in the new infrastructure: "consecutive disambiguation"
+The solution in the second phase of the project was to accept different spellings for towns, streets or people in the XML files but keep track of the variations in a separate spreadsheet which was then used to create normalised search filters and drop down menues in the new project infrastructure. This process may be referred to as "consecutive disambiguation", keeping the actual transcription and encoding workflow as lean and as possible.
 
 # Task: 
 
