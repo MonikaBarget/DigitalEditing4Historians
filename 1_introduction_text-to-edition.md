@@ -26,7 +26,7 @@ The haptic / physical qualities which a "text" may have are perhaps most obvious
 
 [Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg](https://commons.wikimedia.org/wiki/File:Roman_Inscription_in_Pompei,_Italy_(EDH_-_F010021).jpeg), Creative Commons Attribution-Share Alike 3.0 Unported license.
 
-![Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg](/DigitalEditing4Historians/Roman_Inscription_in_Pompei_Italy.jpeg)
+![Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg](/master/Roman_Inscription_in_Pompei_Italy.jpeg)
 
 [Wikipedia article on "text" in literary theory](https://en.wikipedia.org/wiki/Text_(literary_theory):
 
