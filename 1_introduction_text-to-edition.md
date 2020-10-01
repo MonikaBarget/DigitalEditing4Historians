@@ -107,8 +107,7 @@ XML was designed to be both human- and machine-readable.
 
 As such, XML is also particularly suitable for digital editions in the humanities.
 
-The *Timeline of Markup Languages*, published in [“Markup Language for the Wireless World”, 5th February 2009]
-(https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a useful visualisation.
+The *Timeline of Markup Languages*, published in [“Markup Language for the Wireless World”, 5th February 2009](https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a useful visualisation.
 
 # XML/TEI as the established standard in digital editing
 
