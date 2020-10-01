@@ -96,7 +96,7 @@ The "mother" of modern markup languages is SGML (Standard Generalized Markup Lan
 
 This means that SGML is not itself a markup language, i.e. there are *no fixed markups* for certain text elements. SGML defines the syntax in which users can define their own markup languages. The SGML-based markup language most people outside academia are familiar with is probably HTML, which is used to encode content for display on the web. HTML has seen many updates and variations over time. HTML5 is the latest version of HTML, recommended by the [World Wide Web Consortium (W3C)](https://www.w3.org/).  
 
-XML (eXtensible Markup Language) was developed in 1998 and, according to the [W3Schools XML Tutorial](https://www.w3schools.com/xml/), serves the following two purposes:
+XML (eXtensible Markup Language) was first recommended by W3C in 1998 and, according to the [W3Schools XML Tutorial](https://www.w3schools.com/xml/), serves the following two purposes:
 
 > XML was designed to store and transport data.
 XML was designed to be both human- and machine-readable.
