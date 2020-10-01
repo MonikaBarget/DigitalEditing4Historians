@@ -24,8 +24,7 @@ The haptic / physical qualities which a "text" may have are perhaps most obvious
 
 *Example:*
 
-[Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg]
-(https://commons.wikimedia.org/wiki/File:Roman_Inscription_in_Pompei,_Italy_(EDH_-_F010021).jpeg), Creative Commons Attribution-Share Alike 3.0 Unported license.
+[Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg](https://commons.wikimedia.org/wiki/File:Roman_Inscription_in_Pompei,_Italy_(EDH_-_F010021).jpeg), Creative Commons Attribution-Share Alike 3.0 Unported license.
 
 ![Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg](/DigitalEditing4Historians/Roman_Inscription_in_Pompei_Italy.jpeg)
 
@@ -51,7 +50,7 @@ When we want to grasp the "meaning" of a text, we must keep in mind that texts h
 
 > The question is itself annoyingly vague and ambiguous, yet it is as close as I can get to expressing what seems to me the central issue of literary theory today. (...) If we cannot immediately answer it, the problem lies chiefly, I think, in the word *meaning*, which has several conflicting senses.
 
-[“Meaning and Text.” Verbal Art: A Philosophy of Literature and Literary Experience, by ANDERS PETTERSSON, McGill-Queen's University Press, 2000, pp. 83–102](www.jstor.org/stable/j.ctt80dpm.9):
+[“Meaning and Text.” Verbal Art: A Philosophy of Literature and Literary Experience, by Anders Pettersson, McGill-Queen's UP, 2000, pp. 83–102](www.jstor.org/stable/j.ctt80dpm.9):
 
 > The concepts “text,” “interpretation,” and “meaning” played no important part in the previous discussion. In fact, I refrain from assigning a structural role to these concepts in my theory. I regard them as wide, all-embracing terms of only indirect interest in an analysis striving for clarity and precision. Concepts like “text,” “meaning,” and “interpretation” are bound to appear to be of central importance to those who think in terms of a folk theory of communication, that is in terms of the transportation and container metaphors.
 
@@ -73,7 +72,7 @@ Following this on-going debate in the humanities, we will try and consider some 
 
 * materiality?
 
-[Bawarshi, Anis. “MATERIALITY.” Keywords in Writing Studies, edited by PAUL HEILKER and PETER VANDENBERG, University Press of Colorado, 2015, pp. 108–113](www.jstor.org/stable/j.ctt130hkrq):
+[Bawarshi, Anis. “MATERIALITY.” Keywords in Writing Studies, edited by PAUL HEILKER and PETER VANDENBERG, UP of Colorado, 2015, pp. 108–113](www.jstor.org/stable/j.ctt130hkrq):
 
 > The term *materiality* has a wide range of meanings within the discourses of writing studies, often functioning as a modifier (“materialist”) to other abstractions (as in, “materialist views of situation”). As reflected in its various significations within the field, materiality is used not only to account for the presence of matter and the material, but also to describe the operations of matter (“materialism”). As such, materiality is deployed both as a thing itself (an embodied presence), and as a thing that can act in the service of its own ends (as having agency).
 
