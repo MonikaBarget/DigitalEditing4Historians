@@ -1,3 +1,5 @@
+# The problem of "text" and "meaning" in the humanities and the role of scholarly editions in hermeneutics (Monika Barget, IEG MAINZ)
+
 # What is a "text" (in a historical perspective)?
 
 Our digital age is also to a large extent a textual age as we are surrounded by messenger services, social media, news feeds and websites that do not only require us to process images but also written language. So is a text merely the counterpart of an image? Or can the two overlap? How do different academic disciplines define texts?
