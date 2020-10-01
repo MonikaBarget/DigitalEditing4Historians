@@ -1,8 +1,8 @@
 # What is a "text" (in a historical perspective)?
 
-Our digital age is also to a large extent a textual age as we are surrounded by messenger services, social media, news feeds and websites that do not only require as to process images but also written language. So is a text merely the counterpart of an image? Or can the two overlap? How do different academic disciplines define texts?
+Our digital age is also to a large extent a textual age as we are surrounded by messenger services, social media, news feeds and websites that do not only require us to process images but also written language. So is a text merely the counterpart of an image? Or can the two overlap? How do different academic disciplines define texts?
 
-As the telegraph from 1916 shows, the question when a combination of typescript characters, symbols, signs etc. becomes a text is a complex one, and one that will be answered different by different people. The telegraph contains an actual handwritten message but also standardised "text" in print, a postal stamp, and the royal coat of arms of the United Kingdom in the top left corner. Depending on the research questions and methodologies with which this source is approached, only some of these many features will be taken into account.
+As the telegraph from 1916 in the photograph below shows, the question when a combination of typescript characters, symbols, signs etc. becomes a text is a complex one, and one that will be answered differently by different people. The telegraph contains an actual handwritten message but also standardised "text" in print, a postal stamp, and the royal coat of arms of the United Kingdom in the top left corner. Depending on the research questions and methodologies with which this source is approached, only some of these many features will be taken into account.
 
 *Example of the complexity of textual sources:*
 
@@ -106,7 +106,7 @@ XML was designed to be both human- and machine-readable.
 
 > XML is widely used for the definition of device-independent, system-independent methods of storing and processing texts in electronic form. It is now also the interchange and communication format used by many applications on the World Wide Web.
 
-As such, XML is also used for digital editions in the humanities.
+As such, XML is also particularly suitable for digital editions in the humanities.
 
 The *Timeline of Markup Languages*, published in [“Markup Language for the Wireless World”, 5th February 2009]
 (https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a useful visualisation.
