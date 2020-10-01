@@ -2,11 +2,7 @@
 
 Our digital age is also to a large extent a textual age as we are surrounded by messenger services, social media, news feeds and websites that do not only require as to process images but also written language. So is a text merely the counterpart of an image? Or can the two overlap? How do different academic disciplines define texts?
 
-In fact, colloquial perceptions of "text" may not always conform with scientific approaches, so here are a few (conflicting) definitions for discussions:
-
-[Titon, Jeff Todd. “Text.” The Journal of American Folklore, vol. 108, no. 430, 1995, pp. 432–448. JSTOR](www.jstor.org/stable/541655):
-
-> In its older and still most common sense *text* means written words, usually words given some kind of authority. Editors preparing literary editions or historical documents seek a text "most nearly representing the author's original work" (Oxford English Dictionary). For literary scholars a text is a work of literature; for historians, a text is a historical document; for musicologists, a text is the words to a piece of music.
+As the telegraph from 1916 shows, the question when a combination of typescript characters, symbols, signs etc. becomes a text is a complex one, and one that will be answered different by different people. The telegraph contains an actual handwritten message but also standardised "text" in print, a postal stamp, and the royal coat of arms of the United Kingdom in the top left corner. Depending on the research questions and methodologies with which this source is approached, only some of these many features will be taken into account.
 
 *Example of the complexity of textual sources:*
 
@@ -14,11 +10,19 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 ![Telegram](http://letters1916.maynoothuniversity.ie/diyhistory/archive/fullsize/a0acc72a57e4a49664cdabc93c827ec1.jpg)
 
+The same is true of the modern, inherently digital "texts" we encounter on Twitter or What's App. A tweet and a chat message consist in different sections such as the name or pseudonym of the person writing, hashtags or emojis, hyperlinks etc. In fact, colloquial perceptions of "text" may not always conform with scientific approaches, so here are a few (conflicting) definitions for discussion:
+
+[Titon, Jeff Todd. “Text.” The Journal of American Folklore, vol. 108, no. 430, 1995, pp. 432–448. JSTOR](www.jstor.org/stable/541655):
+
+> In its older and still most common sense *text* means written words, usually words given some kind of authority. Editors preparing literary editions or historical documents seek a text "most nearly representing the author's original work" (Oxford English Dictionary). For literary scholars a text is a work of literature; for historians, a text is a historical document; for musicologists, a text is the words to a piece of music.
+
 [Lerer, Seth, and Joseph A. Dane. “Introduction: What Is a Text?” Huntington Library Quarterly, vol. 58, no. 1, 1995, pp. 1–10. JSTOR](www.jstor.org/stable/3817894):
 
 > Nonetheless, although "textuality" has become something of a term to conjure with -- and disciplines as diverse as film studies, cultural antrhopology, and the history of science imagine themselves working with the meaning and the mode of "texts" -- the processes of transcribing, collating, describing, and editing books and manuscripts of earlier historical periods remain, for the most part, relatively familiar. (...) The question still evades us: What is a text? Or, to ask it more precisely, what are the relationships between the methods of textual study and the privileging of a *class of objects* called texts? *How does an artifact become a text?* Does it become one only when subjected to the inquiries of textual analysis? For that matter, can a text lose its status and revert to the merely artifactual?
 
-*Example of a "text" with obvious haptic qualities:*
+The haptic / physical qualities which a "text" may have are perhaps most obvious in engraved inscriptions on stones. Looking at books or even digitised "text" on a screen, we often tend to forgot that every text is "made" and can potentially be destroyed. So why are texts special to our cultural heritage? How do they relate to other relics of the past? How do we evaluate them?
+
+*Example:*
 
 [Roman Inscription in Pompei, Italy (EDH - F010021), Photographic Database Heidelberg]
 (https://commons.wikimedia.org/wiki/File:Roman_Inscription_in_Pompei,_Italy_(EDH_-_F010021).jpeg), Creative Commons Attribution-Share Alike 3.0 Unported license.
@@ -37,9 +41,11 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 > As Derrida observes, the pressing question here is about the difference between interpreting the world and changing it. Because the second text, the test as pardigm, seeks precisely to frame this difference and designate as the remainder, the trace, that which falls out of the immanent unfolding of empire's limits, it continues to matter today.
 
-# What informational layers does a text contain, and how "objective" are they?
+# What informational layers does a text contain, and how "reliable" are they?
 
-* "meaning" in text?
+* "meaning" in texts?
+
+When we want to grasp the "meaning" of a text, we must keep in mind that texts have multiple informational layers and that their reliability is a question of relations. If you co-edit a paper with colleagues in WORD or GOOGLE DOCs, for instance, the software offers several ways to structure and annotate the text, and to communicate structure and annotations to the others. You can create paragraphs, different headlines, footnotes, endnotes, captions or a list of contents. You can highlight text sections in colour or add comments. Some of these steps involve a conscious reflection upon what the text is and what is means, e.g. if you ask a colleague to clarify a paragraph which you did not understand. Other steps are very much unconscious. But that does not take away from the fact that some form of text criticism and meta-engagement with texts is part of our everyday lives as students and teachers alike. What is more: the texts we engage with are probably all ambivalent. 
 
 [Crosman, Robert. “Do Readers Make Meaning?” The Reader in the Text: Essays on Audience and Interpretation, edited by Susan R. Suleiman and Inge Crosman, Princeton University Press, Princeton, New Jersey, 1980, pp. 149–164. JSTOR](www.jstor.org/stable/j.ctt7zv3jc.10):
 
@@ -48,6 +54,8 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 [“Meaning and Text.” Verbal Art: A Philosophy of Literature and Literary Experience, by ANDERS PETTERSSON, McGill-Queen's University Press, 2000, pp. 83–102. JSTOR] (www.jstor.org/stable/j.ctt80dpm.9):
 
 > The concepts “text,” “interpretation,” and “meaning” played no important part in the previous discussion. In fact, I refrain from assigning a structural role to these concepts in my theory. I regard them as wide, all-embracing terms of only indirect interest in an analysis striving for clarity and precision. Concepts like “text,” “meaning,” and “interpretation” are bound to appear to be of central importance to those who think in terms of a folk theory of communication, that is in terms of the transportation and container metaphors.
+
+Following this on-going debate in the humanities, we will try and consider some of the factors that influence our interpretations of "text": 
 
 * genre?
 
@@ -71,24 +79,41 @@ In fact, colloquial perceptions of "text" may not always conform with scientific
 
 Considerations on the provenance, production and dissemination of texts are part of academic discussions on the "value" of a specific source (German: "Quellenwert"). Such discussions especially arise when sources are potentially volatile and / or fragile. This includes all kinds of hand-written notes and ephemera that emerge as "side-products" of cultural activities: e.g. [Ulrich, Paul S. “THEATERZETTEL UND THEATERALMANACHE – QUELLENKRITISCHE ANMERKUNGEN.” Theater - Zettel - Sammlungen: Erschließung, Digitalisierung, Forschung, edited by Matthias J. Pernerstorfer, vol. 1, Hollitzer Verlag, Wien, 2012, pp. 3–26. JSTOR](www.jstor.org/stable/j.ctv6jmb66.4)
 
-The historic context of a text -- including technological developments in text production -- matters. Interpretations of a text and its representation in secondary media are, therefore, neither purely subjective nor objective. Modes of text analysis and text transmission, too, have a history. 
+The historic context of a text -- including technological developments in text production -- always matters. Interpretations of a text and its representation in secondary media are, therefore, neither purely subjective nor objective. Modes of text analysis and text transmission, too, have a history. 
 
 # Markup as a way to structure and interpret text
 
-In order to be able to create links between words and different texts, sort them by date, identify authors and provide additional context, certain sections of each text in need to be highlighted and enriched with meta-information. This process is called text encoding, and the standard procedures used to encode text are markup languages. The most commonly used markup for digital text-based editions in the humanities is XML.
+One attempt to unify the description and analysis of texts across languages was the development of "markup". Markup is a set of signs that are added to a source to create links between words or to others texts, sort sources by date, identify authors or provide additional context. It is important to note that markup predates the digital age as markup was (and is!) also used in the form of handwritten instructions to a printer. Digital standard procedures to encode text are markup languages. The most commonly used markup language for digital text-based editions in the humanities is XML.
 
 *For samples of manuscript markup, please see [“Deciphering Copyediting Markup” by Ella Dyson, 14th December 14 2017](https://writersblockpartyblog.com/2017/12/14/deciphering-copyediting-markup/).*
 
 # Overview of markup languages and their development
 
-ADD MISSING INFO
+The "mother" of modern markup languages is SGML (Standard Generalized Markup Language), defined as an ISO standard. SGML descended from IBM's Generalized Markup Language (GML), which Charles Goldfarb, Edward Mosher, and Raymond Lorie developed in the 1960s. 
+
+[A Gentle Introduction to SGML](https://tei-c.org/Vault/GL/P3/SG.htm):
+
+> SGML is an international standard for the description of marked-up electronic text. More exactly, SGML is a metalanguage, that is, a means of formally describing a language, in this case, a markup language.
+
+This means that SGML is not itself a markup language, i.e. there are *no fixed markups* for certain text elements. SGML defines the syntax in which users can define their own markup languages. The SGML-based markup language most people outside academia are familiar with is probably HTML, which is used to encode content for display on the web. HTML has seen many updates and variations over time. HTML5 is the latest version of HTML, recommended by the [World Wide Web Consortium (W3C)](https://www.w3.org/).  
+
+XML (eXtensible Markup Language) was developed in 1998 and, according to the [W3Schools XML Tutorial](https://www.w3schools.com/xml/), serves the following two purposes:
+
+> XML was designed to store and transport data.
+XML was designed to be both human- and machine-readable.
+
+[A Gentle Introduction to XML](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html):
+
+> XML is widely used for the definition of device-independent, system-independent methods of storing and processing texts in electronic form. It is now also the interchange and communication format used by many applications on the World Wide Web.
+
+As such, XML is also used for digital editions in the humanities.
 
 The *Timeline of Markup Languages*, published in [“Markup Language for the Wireless World”, 5th February 2009]
-(https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a visualisation.
+(https://mobilewireless.wordpress.com/2009/02/05/markup-language-for-the-wireless-world/), provides a useful visualisation.
 
 # XML/TEI as the established standard in digital editing
 
-XML uses tags similar to HTML. It has more rigid hierarchies / nesting rules but permits the "invention" of additional tags and / or attributes to describe text features.
+XML uses *tags (<>)* similar to HTML. It has more rigid hierarchies / nesting rules but permits the "invention" of additional tags and / or attributes to describe text features.
 A widely recognised attempt to provide guidelines for the use of XML in digital editions has been made by the [Text Encoding Initiative (TEI)](
 https://tei-c.org/).
 
@@ -96,7 +121,7 @@ https://tei-c.org/).
 
 Although XML can be written with any standard plain text editor, special XML editors foster correct syntax and include special features for the parsing and analysis of XML files.
 
-[OXYGEN](https://www.oxygenxml.com/), a very popular and elaborate XML used for many scholarly editions worldwide, requires a paid licence while other editors are open source.
+[OXYGEN](https://www.oxygenxml.com/) is a very popular and elaborate proprietary XML editor used for many scholarly editions worldwide. It requires a paid licence while other editors are open-source.
 
 ![Oxygen interface](https://www.oxygenxml.com/img/tei_editor_big.jpg)
 
@@ -106,13 +131,7 @@ WIKIPEDIA provides a handy [overview of XML editors](https://en.wikipedia.org/wi
 
 # Scholarly editions between description and interpretation
 
-Preparing a text for a scholarly edition, whether printed or digital, is a challenging task as our attempts to structure and markup our sources always transcend mere description and move into interpretation. 
-
-Scholarly editing is often multimodal because different source types need to be included. Text, for instance, is often combined with images.
-
-Moreover, editions require a certain level of normalisation, linking and abstraction. 
-
-Therefore, editions are essentially *texts in contexts*.
+Preparing a text for a scholarly edition, whether printed or digital, is a challenging task as our attempts to structure and markup our sources always transcend mere description and move towards interpretation. Scholarly editing is often multimodal because different source types need to be included. Text, for instance, is often combined with images. Moreover, editions require a certain level of normalisation, linking and abstraction. Therefore, editions are essentially *texts in contexts*.
 
 # Established elements of scholarly editing
 
