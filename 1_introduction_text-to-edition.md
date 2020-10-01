@@ -183,5 +183,3 @@ The catalogue can be filtered by period. One example of an early modern edition 
 - Have you contributed to any digital editions yourselves? As a student assistant or volunteer?
 
 - What are your expectations for a course in “Digital Editing”? What would you like to learn?
-
-
